@@ -14,7 +14,7 @@ I'm a developer interested in **gamedev**, **backend**, **networking**, and buil
 ## My projects
 
 - [**Panel for launching minecraft servers**](https://github.com/NascuBB/HomeSite) — ASP.NET Core + WebSockets for real-time updates.
-- **Checkers game with a bot** — Java, implemented intelligence with capture priority, random move selection.
+- [**Checkers game with a bot**](https://github.com/NascuBB/Checkers) — Java, implemented intelligence with capture priority, random move selection.
 - **File compression and decompression system** — C with RLE and LZ77 implementation for working with binary files.
 
 ## Study and practice
