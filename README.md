@@ -6,7 +6,7 @@ I'm a developer interested in **gamedev**, **backend**, **networking**, and buil
 
 - **C# / .NET** — I create server applications, games, tools for data processing.
 - **ASP.NET Core** — for developing web applications, including statistics systems, server control panels, etc.
-- **Java** — I develop desktop and gaming applications, for example, a bot for checkers and other logic games.
+- **Java** — as for c#, creating web applications using spring boot
 - **PostgreSQL** — I design and populate databases for educational and practical tasks.
 - **Docker** — I'm learning to use it for convenient and cross-platform deployment of my applications.
 - **Xamarin/MAUI** — the client part for mobile applications.
