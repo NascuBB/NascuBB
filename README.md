@@ -1,38 +1,52 @@
 # Hello! I'm Ivan
 
-## About me
+### Backend Developer | Web Services | Microservices
 
-I'm a developer interested in **gamedev**, **backend**, **networking**, and building **useful apps**. I work with technologies such as:
-
-- **C# / .NET** — I create server applications, games, tools for data processing.
-- **ASP.NET Core** — for developing web applications, including statistics systems, server control panels, etc.
-- **Java** — as for c#, creating web applications using spring boot
-- **PostgreSQL** — I design and populate databases for educational and practical tasks.
-- **Docker** — I'm learning to use it for convenient and cross-platform deployment of my applications.
-- **Xamarin/MAUI** — the client part for mobile applications.
-
-## My projects
-
-- [**Panel for launching minecraft servers**](https://github.com/NascuBB/HomeSite) — ASP.NET Core + WebSockets for real-time updates.
-- [**Checkers game with a bot**](https://github.com/NascuBB/Checkers) — Java, implemented intelligence with capture priority, random move selection.
-- [**Smart lamp**](https://github.com/NascuBB/smart_lamp) - C++, A browser-controlled led strip lamp on ESP8266 with over-the-air updates.
-- **File compression and decompression system** — C with RLE and LZ77 implementation for working with binary files.
-
-## Study and practice
-
-I often perform practical tasks related to:
-
-- designing classes and diagrams (inheritance, polymorphism),
-- data structure (for example, static arrays for Pascal's triangle),
-- writing SQL tables and generating content for the DB.
-
-## Currently studying
-
-- Docker and microservice architecture,
-- server performance optimization in multiplayer games,
-- secure networking and session management,
-
+I am a developer focused on building scalable backend systems and distributed architectures. My current technical interests include microservices, containerization with Docker, and optimizing server-side performance.
 
 ---
+
+### Tech Stack
+
+| Category | Technologies |
+| :--- | :--- |
+| **Backend** | .NET (C#), ASP.NET Core, EF Core, Java, Spring Boot |
+| **Infrastructure** | Docker, Docker Compose, Linux, Git |
+| **Databases** | PostgreSQL, SQL Optimization |
+| **Networking** | TCP/IP, WebSockets, SignalR |
+| **Low-level / IoT** | C, C++, Micropython, ESP8266, Raspberry Pico 2W (Firmware development) |
+| **Mobile** | .NET MAUI, Xamarin |
+
+---
+
+### Projects
+
+#### [HomeSite (Minecraft Server Manager)](https://github.com/NascuBB/HomeSite)
+* **Technologies:** ASP.NET MVC, EF Core, WebSockets.
+* **Description:** A real-time monitoring and control panel for game servers. Implemented live console streaming and remote command execution using WebSockets for low-latency updates.
+
+#### [Checkers Game Logic](https://github.com/NascuBB/Checkers)
+* **Technologies:** Java, Spring Framework, Thymeleaf.
+* **Description:** Implementation of checkers game mechanics. The project features a rule-based move selection system with capture priority and randomized move generation for the opponent.
+
+#### [Smart Lamp (Standalone Controller)](https://github.com/NascuBB/smart_lamp)
+* **Technologies:** C++.
+* **Description:** A prototype for a browser-controlled LED system on ESP8266. Designed as a standalone device with direct smartphone control. Features include custom light protocols and Over-The-Air (OTA) firmware updates.
+
+#### Binary Data Compression System
+* **Technologies:** C.
+* **Description:** Implementation of **Huffman coding** (prefix-based) and **LZ77** algorithms for binary file processing. Developed as an academic project; source code is private in accordance with university policy.
+
+#### [ShablePrefix](https://github.com/NascuBB/ShablePrefix) (2021)
+* **Technologies:** C#.
+* This was my very first public C# library, published when I started my journey in software development. To my surprise, it reached **3,000+ downloads on NuGet**. 
+  While the code reflects my beginner level at the time, this project taught me the importance of the software distribution lifecycle, package management, and building tools that solve even simple problems for the community.
+
+---
+
+### Currently Studying
+* Microservices and distributed systems architecture.
+* Docker container orchestration and deployment optimization.
+* Secure networking, session management, and backend performance tuning.
 
 > Thanks for stopping by! Always happy to meet new people and take on interesting challenges :)
