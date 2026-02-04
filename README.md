@@ -25,7 +25,7 @@ I am a developer focused on building scalable backend systems and distributed ar
 * **Technologies:** ASP.NET MVC, EF Core, WebSockets.
 * **Description:** A real-time monitoring and control panel for game servers. Implemented live console streaming and remote command execution using WebSockets for low-latency updates.
 
-#### [Checkers Game Logic](https://github.com/NascuBB/Checkers)
+#### [Checkers](https://github.com/NascuBB/Checkers)
 * **Technologies:** Java, Spring Framework, Thymeleaf.
 * **Description:** Implementation of checkers game mechanics. The project features a rule-based move selection system with capture priority and randomized move generation for the opponent.
 
